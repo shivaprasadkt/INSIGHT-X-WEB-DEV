@@ -142,6 +142,12 @@ playResultSound()        ← Tone pitched to roll quality
 The app uses CSS custom properties for theming. Toggle between dark and light mode using the 🌙 button in the header. All colors, shadows, and borders update instantly without any JavaScript DOM manipulation beyond toggling a `data-theme` attribute on `<html>`.
 
 ---
+## 🤝 Contributors
+<a href="https://github.com/shivaprasadkt/INSIGHT-X-WEB-DEV/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=shivaprasadkt/INSIGHT-X-WEB-DEV" />
+</a>
+
+---
 
 ## 👤 Author
 
